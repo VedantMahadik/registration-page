@@ -1,0 +1,12 @@
+body{
+    font-family: sans-serif;
+    background-color: rgb(255, 255, 255);
+}
+.task{
+    width: 100%;
+    display: table;
+    display: table-cell;
+    display: table-row;
+    display: table-column;
+    border: 1px solid black;
+}
